@@ -1,4 +1,4 @@
-# supervised ML final project
+# Supervised ML final project
 This project tackles a well known healthcare issue: diabetes.
 
 I chose this dataset because the Diabetes use cases are suitable for Supervised Machine Learning.
